@@ -44,8 +44,8 @@ npm run dev
 For Software:
 
 # Screenshots (Add at least 3)
-!home_page.png
-*Add caption explaining what this shows*
+<img src="https://github.com/Kishor-017/useless_project_Zephyrs/blob/main/screenshots/home_page.png">
+homepage of Grass Debt
 
 ![Screenshot2](Add screenshot 2 here with proper name)
 *Add caption explaining what this shows*
