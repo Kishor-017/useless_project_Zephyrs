@@ -2,47 +2,43 @@
 
 
 
-# [Project Name] 🎯
+# Grass Debt 🎯
 
 
 ## Basic Details
-### Team Name: [Name]
+### Team Name: Zephyrs
 
 
 ### Team Members
-- Team Lead: [Name] - [College]
-- Member 2: [Name] - [College]
-- Member 3: [Name] - [College]
+- Team Lead: Kishor Kumar K - NSS College Of Engineering Palakkad
+- Member 2: Abhishek C - NSS College Of Engineering Palakkad
 
 ### Project Description
-[2-3 lines about what your project does]
+Grass Debt is a fun web app that measures your typing speed and gives you a humorous reminder when you may have spent too much time on a screen.
 
 ### The Problem (that doesn't exist)
-[What ridiculous problem are you solving?]
+People are accumulating Grass Debt by spending way too much time staring at screens instead of touching actual grass. 🌱
 
 ### The Solution (that nobody asked for)
-[How are you solving it? Keep it fun!]
+Test your typing speed, get judged by the app, and receive a completely unnecessary reminder to go outside and touch some grass.
 
 ## Technical Details
 ### Technologies/Components Used
 For Software:
-- [Languages used]
-- [Frameworks used]
-- [Libraries used]
-- [Tools used]
-
+- JavaScript
+- React
+- CSS
+- Vite
+- Node.js
 For Hardware:
-- [List main components]
-- [List specifications]
-- [List tools required]
-
+- None
 ### Implementation
 For Software:
 # Installation
-[commands]
+npm install
 
 # Run
-[commands]
+npm run dev
 
 ### Project Documentation
 For Software:
