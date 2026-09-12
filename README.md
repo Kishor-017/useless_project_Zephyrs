@@ -27,6 +27,7 @@ Test your typing speed, get judged by the app, and receive a completely unnecess
 For Software:
 - HTML
 - JavaScript
+- Typescript
 - React
 - CSS
 - Vite
