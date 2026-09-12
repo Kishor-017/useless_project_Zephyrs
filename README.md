@@ -50,14 +50,17 @@ Homepage
 The homepage introduces **Grass Debt** and lets users start the typing speed test to find out how much “grass debt” they’ve accumulated. 🌱
 
 
-<img src="https://github.com/Kishor-017/useless_project_Zephyrs/blob/main/screenshots/paragraph_type.png>
-### Paragraph Typing Test
+<img src="https://github.com/Kishor-017/useless_project_Zephyrs/blob/main/screenshots/paragraph_type.png">
+Paragraph Typing Test
 
 The page displays a paragraph for the user to type while tracking their typing speed and accuracy.
 
 
-![Screenshot3](Add screenshot 3 here with proper name)
-*Add caption explaining what this shows*
+<img src="https://github.com/Kishor-017/useless_project_Zephyrs/blob/main/screenshots/analysis.png">
+Final Result Analysis
+
+The results page shows the user's typing speed, accuracy, and overall performance, along with their personalized Grass Debt analysis. 🌱
+
 
 # Diagrams
 ![Workflow](Add your workflow/architecture diagram here)
