@@ -91,24 +91,6 @@ Pay Grass Debt
 End
 ```
 
-For Hardware:
-
-# Schematic & Circuit
-![Circuit](Add your circuit diagram here)
-*Add caption explaining connections*
-
-![Schematic](Add your schematic diagram here)
-*Add caption explaining the schematic*
-
-# Build Photos
-![Components](Add photo of your components here)
-*List out all components shown*
-
-![Build](Add photos of build process here)
-*Explain the build steps*
-
-![Final](Add photo of final product here)
-*Explain the final build*
 
 ### Project Demo
 # Video
@@ -121,9 +103,17 @@ A walkthrough of Grass Debt, demonstrating the complete user journey—from star
 https://useless-project-zephyrs.vercel.app/
 
 ## Team Contributions
-- [Name 1]: [Specific contributions]
-- [Name 2]: [Specific contributions]
-- [Name 3]: [Specific contributions]
+Kishor Kumar K – Frontend & Development
+
+-Developed the React-based web application.
+-Implemented the typing test, speed/accuracy calculation, and Grass Debt logic.
+-Worked on UI design, styling, and responsive layout.
+
+Abhishek C – UI/UX & Testing
+
+-Contributed to the UI/UX design and visual improvements.
+-Helped refine the user flow and overall presentation.
+-Tested the application, identified issues, and helped with debugging and final improvements.
 
 ---
 Made with ❤️ at TinkerHub Useless Projects 
