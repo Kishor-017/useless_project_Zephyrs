@@ -45,9 +45,12 @@ For Software:
 
 # Screenshots (Add at least 3)
 <img src="https://github.com/Kishor-017/useless_project_Zephyrs/blob/main/screenshots/home_page.png">
-homepage of Grass Debt
+### Homepage
 
-![Screenshot2](Add screenshot 2 here with proper name)
+The homepage introduces **Grass Debt** and lets users start the typing speed test to find out how much “grass debt” they’ve accumulated. 🌱
+
+
+<img src="
 *Add caption explaining what this shows*
 
 ![Screenshot3](Add screenshot 3 here with proper name)
