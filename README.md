@@ -73,8 +73,24 @@ The results page shows the user's typing speed, accuracy, and overall performanc
 
 
 # Diagrams
-![Workflow](Add your workflow/architecture diagram here)
-*Add caption explaining your workflow*
+## Workflow
+
+```text
+Start
+  ↓
+Homepage
+  ↓
+Typing Test
+  ↓
+Calculate Typing Speed & Accuracy
+  ↓
+Grass Debt Analysis
+  ↓
+Pay Grass Debt
+  ↓
+End
+
+This workflow shows the journey from starting the typing test to calculating performance, analysing Grass Debt, and reaching the Grass Debt payment stage.
 
 For Hardware:
 
