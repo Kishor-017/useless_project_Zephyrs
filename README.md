@@ -112,8 +112,9 @@ For Hardware:
 
 ### Project Demo
 # Video
-[Add your demo video link here]
-*Explain what the video demonstrates*
+https://drive.google.com/file/d/1uV3629z8dfQiKY8lg9sGs-S9iJ7JmH2Z/view?usp=drive_link
+
+A walkthrough of Grass Debt, demonstrating the complete user journey—from starting the typing test and measuring typing speed to viewing the performance analysis and exploring the Grass Debt payment page. 🌱
 
 # Additional Demos
 ### Hosted link
