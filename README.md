@@ -25,6 +25,7 @@ Test your typing speed, get judged by the app, and receive a completely unnecess
 ## Technical Details
 ### Technologies/Components Used
 For Software:
+- HTML
 - JavaScript
 - React
 - CSS
