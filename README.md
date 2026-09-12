@@ -91,7 +91,8 @@ For Hardware:
 *Explain what the video demonstrates*
 
 # Additional Demos
-[Add any extra demo materials/links]
+### Hosted link
+https://useless-project-zephyrs.vercel.app/
 
 ## Team Contributions
 - [Name 1]: [Specific contributions]
