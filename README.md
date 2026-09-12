@@ -30,6 +30,7 @@ For Software:
 - CSS
 - Vite
 - Node.js
+
 For Hardware:
 - None
 ### Implementation
