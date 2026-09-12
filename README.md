@@ -89,8 +89,7 @@ Grass Debt Analysis
 Pay Grass Debt
   ↓
 End
-
-This workflow shows the journey from starting the typing test to calculating performance, analysing Grass Debt, and reaching the Grass Debt payment stage.
+```
 
 For Hardware:
 
