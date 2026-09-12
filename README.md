@@ -56,6 +56,13 @@ Paragraph Typing Test
 The page displays a paragraph for the user to type while tracking their typing speed and accuracy.
 
 
+<img src="https://github.com/Kishor-017/useless_project_Zephyrs/blob/main/screenshots/grass_debt.png">
+Paying Your Grass Debt 🌱
+
+The page lets users “pay” their Grass Debt by completing simple offline activities and taking a break from their screen.
+
+
+
 <img src="https://github.com/Kishor-017/useless_project_Zephyrs/blob/main/screenshots/analysis.png">
 Final Result Analysis
 
