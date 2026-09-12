@@ -106,13 +106,17 @@ https://useless-project-zephyrs.vercel.app/
 Kishor Kumar K – Frontend & Development
 
 -Developed the React-based web application.
+
 -Implemented the typing test, speed/accuracy calculation, and Grass Debt logic.
+
 -Worked on UI design, styling, and responsive layout.
 
 Abhishek C – UI/UX & Testing
 
 -Contributed to the UI/UX design and visual improvements.
+
 -Helped refine the user flow and overall presentation.
+
 -Tested the application, identified issues, and helped with debugging and final improvements.
 
 ---
